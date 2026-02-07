@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# SDR Data (The "Do Not Commit" list)
+*.iq
+*.bin
+*.dat
+*.wav
+*.cfile
+/recordings/
